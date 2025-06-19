@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+streamlit-webrtc
+numpy
+pillow
+fastai
+torch
+gdown
+typing-extensions
