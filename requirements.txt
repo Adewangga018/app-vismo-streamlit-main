@@ -1,9 +1,9 @@
 streamlit
-opencv-python
+opencv-python-headless
 streamlit-webrtc
 numpy
 pillow
-fastai
+fastai<2.8.0
 torch
 gdown
 typing-extensions
