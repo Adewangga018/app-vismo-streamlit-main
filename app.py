@@ -10,8 +10,8 @@ from streamlit_webrtc import webrtc_streamer, VideoTransformerBase, WebRtcMode
 from collections import Counter
 
 # --- Patch PosixPath untuk Windows ---
-temp = pathlib.PosixPath
-pathlib.PosixPath = pathlib.WindowsPath
+# temp = pathlib.PosixPath
+# pathlib.PosixPath = pathlib.WindowsPath
 
 # --- Fungsi Preprocessing ---
 def preprocess_image(img):
